@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auxilio K66</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inicio">Inicio</string>
+    <string name="perfil">Perfil</string>
+    <string name="denunciar">Denunciar</string>
+    <string name="title_activity_maps">Map</string>
+    <!--<string name="marker_detail_latlng">marker_detail_latlng</string>-->
+    <string name="marker_detail_latlng">(%1$.2f, %2$.2f)</string>
+    <string name="buscando">Buscando</string>
+    <string name="gps">COMPARTIR UBICACIÓN</string>
+    <string name="pause">pause</string>
+    <string name="resume">resume</string>
+    <string name="sin_valores">sin_valores</string>
+    <string name="latitud">latitud</string>
+    <string name="longitud">longitud</string>
+    <string name="precision">precision</string>
+    <string name="altura">altura</string>
+    <string name="localizar">localizar</string>
+    <string name="iniciar_actualizaciones">iniciar_actualizaciones</string>
+    <string name="parar_actualizaciones">parar_actualizaciones</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="ip2">http://192.168.42.2/</string>
+
+    <string name="ip">https://auxiliobomberos.000webhostapp.com</string>
+
+
+    <string name="texto_iniciar_instruccion">App para Reportes  de Incidentes \n - Auxilio K66 -</string>
+    <string name="pregunta1">Pregunta 1. ¿ A qué compañía de Bomberos Voluntarios se emiten los reportes de incidentes?</string>
+    <string name="respuesta1">Los reportes de incidentes se emiten a la Sexta compañía departamental K66 Caraguatay, perteneciente al C.B.V.P.</string>
+    <string name="pregunta2">Pregunta2. ¿Qué datos recepciona la compañía K66?</string>
+    <string name="respuesta2">Los datos recepcionados son el 1) El tipo de incidente que reporta el usuario,
+        2)La ubicación del incidente mediante GPS del dispositivo 3) Una evidencia "foto" del incidente(opcional)
+    4) El nombre del usuario que reportó el incidente, 5) La fecha y hora del reporte</string>
+    <string name="pregunta3">Pregunta 3. ¿Qué botón me ayudará a reportar el incidente?</string>
+    <string name="respuesta3">El botón <strong>"Reportar Incidente"</strong> que se encuentra en el menú principal</string>
+    <string name="Titulo1Politica">POLÍTICA DE PRIVACIDAD</string>
+    <string name="Texto1">1)En la presente Política de Privacidad se establecen los términos en que la Aplicación denominada Auxilio K66, donde el  </string>
+    <string name="Texto2"> usuario previamente registrado podrá Denunciar o reportar Incidentes ocurridos en el instante como accidentes, incendios, </string>
+    <string name="Texto3">rescates de personas o animales, estos reportes son recepcionados por los bomberos voluntarios K66 que acudirán al auxilio apenas se emita el reporte.</string>
+    <string name="Texto4">2)La App usa y protege la información que es proporcionada por sus usuarios al momento de utilizar la app. </string>
+    <string name="Texto5">3) Los creadores de la App están comprometidos con la seguridad de los datos de sus usuarios. </string>
+    <string name="Texto6">4) Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.</string>
+    <string name="Texto7">1) Auxilio K66 podrá recoger información personal por ejemplo: Nombre, información de contacto, su dirección de correo electrónica e información de geolocalización.</string>
+    <string name="Texto8">1) La aplicación  emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios y denuncias. </string>
+    <string name="Texto9">2)Auxilio K66 está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.  </string>
+    <string name="Texto10">En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuesta app.</string>
+    <string name="Texto11">La información personal proporcionada a la Aplicación Auxilio K66 no será vendido ni cedido ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.</string>
+    <string name="Texto12">Auxilio K66 Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.</string>
+
+
+</resources>

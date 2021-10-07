@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "50027609669",
+    "firebase_url": "https://appbomberos-c35f2-default-rtdb.firebaseio.com",
+    "project_id": "appbomberos-c35f2",
+    "storage_bucket": "appbomberos-c35f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50027609669:android:291707f186a75ffec26d2c",
+        "android_client_info": {
+          "package_name": "com.estilo.app_ciudadanos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50027609669-kkkalqc865fl03j76udhfd5elu1elp1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7wd7OMOahXqTGf5ER7w1ERmLcK_-UKnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50027609669-kkkalqc865fl03j76udhfd5elu1elp1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50027609669:android:5de4e3c3307ad168c26d2c",
+        "android_client_info": {
+          "package_name": "com.example.app_bomberos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50027609669-kkkalqc865fl03j76udhfd5elu1elp1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7wd7OMOahXqTGf5ER7w1ERmLcK_-UKnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50027609669-kkkalqc865fl03j76udhfd5elu1elp1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

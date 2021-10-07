@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CambiarPassActivity"
+    android:background="@drawable/cut_activity_background">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="Cambiar Contraseña"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/passActual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="40dp"
+        android:backgroundTint="#FFC107"
+        android:ems="10"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="Contraseña Actual"
+        android:inputType="textPassword"
+        android:maxLength="45"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textColorLink="@color/white"
+
+        android:textSize="16sp" />
+
+
+
+    <Button
+        android:id="@+id/btnCambiarPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginEnd="90dp"
+        android:background="@drawable/button_rounded_border"
+        android:backgroundTintMode="add"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="CAMBIAR "
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        />
+
+</FrameLayout>
